@@ -73,6 +73,10 @@ Spotify creates playlists like Discover Weekly based on what others with similar
 # Conclusion
 A recommendation system is a powerful tool that helps users discover new content and helps companies increase engagement and revenue. By using collaborative filtering, machine learning, or deep learning, these systems can provide personalized experiences across industries. Understanding how to build one using libraries like Surprise in Python is a great starting point for any data science or machine learning enthusiast.
 
-# OUTPUT
+# OUTPUT 1
+![Image](https://github.com/user-attachments/assets/31b28b14-f413-4750-b6f2-6b8cb13f7fd4)
+
+# OUTPUT 2
+
 
 
