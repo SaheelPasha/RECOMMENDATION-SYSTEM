@@ -77,6 +77,10 @@ A recommendation system is a powerful tool that helps users discover new content
 ![Image](https://github.com/user-attachments/assets/31b28b14-f413-4750-b6f2-6b8cb13f7fd4)
 
 # OUTPUT 2
+![Image](https://github.com/user-attachments/assets/0cd267c8-476d-4f3a-92a9-d828314d49f7)
+
+# OUTPUT
+
 
 
 
