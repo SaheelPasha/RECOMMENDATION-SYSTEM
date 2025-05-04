@@ -1,1 +1,15 @@
 # RECOMMENDATION-SYSTEM
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: Saheel Pasha
+
+**INTERN ID**: CT04WT62
+
+**DOMAIN**:  Machine Learning
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
+# 
